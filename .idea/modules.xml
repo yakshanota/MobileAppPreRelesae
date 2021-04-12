@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="appv1-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appv1-master.iml" filepath="$PROJECT_DIR$/.idea/modules/appv1-master.iml" group="appv1-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autodetectotpandroid/autodetectotpandroid.iml" filepath="$PROJECT_DIR$/.idea/modules/autodetectotpandroid/autodetectotpandroid.iml" group="appv1-master/autodetectotpandroid" />
+    </modules>
+  </component>
+</project>

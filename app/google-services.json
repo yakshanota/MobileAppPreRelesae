@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "177601194055",
+    "firebase_url": "https://yakshanota-c6f07.firebaseio.com",
+    "project_id": "yakshanota-c6f07",
+    "storage_bucket": "yakshanota-c6f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177601194055:android:bbc8248e06e484130ae962",
+        "android_client_info": {
+          "package_name": "com.sasa.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177601194055-gb10gcjbmrv9f0ibcu4jq3rmgpui280e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkbVSAjZ3yiE22so-RHROCxaJFYT59u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177601194055-gb10gcjbmrv9f0ibcu4jq3rmgpui280e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177601194055:android:83683a39320cfb010ae962",
+        "android_client_info": {
+          "package_name": "com.yaksha.nota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177601194055-gb10gcjbmrv9f0ibcu4jq3rmgpui280e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkbVSAjZ3yiE22so-RHROCxaJFYT59u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177601194055-gb10gcjbmrv9f0ibcu4jq3rmgpui280e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177601194055:android:8c4fa8246d2bb21d0ae962",
+        "android_client_info": {
+          "package_name": "ru.ifsoft.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177601194055-gb10gcjbmrv9f0ibcu4jq3rmgpui280e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkbVSAjZ3yiE22so-RHROCxaJFYT59u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177601194055-gb10gcjbmrv9f0ibcu4jq3rmgpui280e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
